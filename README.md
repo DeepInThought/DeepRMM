@@ -21,4 +21,4 @@ With offerings from the DevOps world to provide continuous integration and conti
 - [Concourse](https://concourse-ci.org)
 
 # Questions
-Interested in assisting?  Send a message directly to [@DeepInThought](https://github.com/DeepInThought] or visit the project board.
+Interested in assisting?  Send a message directly to [@DeepInThought](https://github.com/DeepInThought) or visit the project board.
